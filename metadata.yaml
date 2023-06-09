@@ -1,5 +1,8 @@
 _repo: Lord-Lister-No-0023-Het-geheim-van-den-ring_70806
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   authors:
   - agent_name: Blankensee, Theo von
@@ -17,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/40698
     wikipedia: https://de.wikipedia.org/wiki/Kurt_Matull
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70806#Lord-Lister-No-0023-Het-geheim-van-den-ring
 gutenberg_issued: '2023-05-19'
 identifiers:
   gutenberg: '70806'
